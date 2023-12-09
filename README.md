@@ -2,6 +2,9 @@
 
 Moja strona: https://ap0l0gize.github.io/
 
+https://github.com/ap0l0gize/video-retalking
+https://paperswithcode.com/paper/videoretalking-audio-based-lip#code
+
 <!--
 **ap0l0gize/ap0l0gize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
